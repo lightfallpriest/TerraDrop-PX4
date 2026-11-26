@@ -357,7 +357,7 @@ This keeps the project reproducible, cleanly organized, and aligned with the int
 
 ### **Author**
 
-Ayushman M. (https://github.com/infinitepriest)  
+Ayushman M. (https://github.com/lightfallpriest)  
 M.S. Robotics & Autonomous Systems (MAE)  
 Arizona State University  
 
